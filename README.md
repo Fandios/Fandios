@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Let's continue bulding
 - ⚡ Fun fact: Digital is the new world
 --> A developing idea..
+A decentralise Entertainment Contest Hub with interaction with Algorand blockchain--
 [Algorand - FANDIOS Grant  Proposal.pdf](https://github.com/Fandios/Fandios/files/7892925/Algorand.-.FANDIOS.Grant.Proposal.pdf)
-Thank you!
+Thank you! Step 1!
+
+Let's build with team (Teamdios) 
+Muhammed Aliyu - Software Engineer
+https://github.com/phalcorine

@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 A decentralise Entertainment Contest Hub with interaction with Algorand blockchain--
 Thank you! Step 1!
 
-Let's build with team (Teamdios) 
+Let's build with team (Teamdios)
+
 Project Management: Francis Chukwuemeka Akujobi 
 Linkedin: https://www.linkedin.com/in/iamfancyfrancis 
 Roles: Project Lead/Manager
